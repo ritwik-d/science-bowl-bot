@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "science-bowl-bot-d2e48",
+  "private_key_id": "26f1b93c370d7119147cb3d784bbcbff3f2e490d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCbuXqdifqZucYF\nYcIGsiCvgXnz1sR1n73KJ7OKxbbQDTLo65dZ150yqLJ4DoKagJP+CIc3CkJX/3zj\nRtbcz5VokJpZOzR2PFexztmoDI+JJ4PQ81MiKoPu0FMWHIkgNivCswWHvf9Po70H\nGk08orgWZH8sDsr09aS0AYcC6xwcSYoohefMcajXv01N8Us5mHk6mybdvXNohqcy\nsV87sS0WS8ekphdlTy2A9hNJXGhHzfpbgzzYQb2zBGjUJQVyDf+Sfyck8QKCaVuc\nebCqA3m4AnhwbxBCdpWCXbWsD19/az/LqYK95F4nWpRpTOEFv8qDQTEevfqrd+Oj\nMzDZkU6DAgMBAAECggEAPmbnIbYm++8b0RBJhhFfU7UYv4Oymkf278lVAykThu+j\nFP9DWTczwRck3UNDRtJ7e3LDbGTqDQVOcGz0sOtmPc6ka1l0PmUT5yayxcqywg1Z\nnyPCjpBm6g4FHXk14fiTNKQ0dR7H7ov4tZ3ukXvLNP30kB0la1/8Lj3mcl7wlsyp\nIbyO+MX64SnWtPztzjzAS1beu8pzbYUgFBDBj+eKAmQAl2fo5zzTUq1NPHJN3Q2f\nBrv5vQRHrBgwA1uMCcPppEF0p1CIkztNDhlfzvZ0/msYuqBIzKrMfylNC7u76smH\nOrvsFLaH7Cgbpg5YOn3H8kkKmw4hLGFH2O0R2nh4YQKBgQDRgBwAv5wjbLS8wACi\nNVz2igqpkamSG2i+dUPXvAZG7jBE/IxUlA+EuEyBIE7ZMs+XvegoE13v/3rcG6tP\nu3SxgXUBKBDeqob/BsL+n2SOQR3AHTuK61MA4XO0jJxnroNzTkJ/I+xb/yo9kbMM\nDvtZfmBMbdUxAGXRm1wpZc4fqQKBgQC+Sc2n6NrdzRkwFLfraHSH2u/hxbhfymRL\nBsNaiOrYpZAp+c2HevZyai3t2g9tcD1CMMootCSK4qj+1ZFJQ7rS99ceb3XogA5/\nWg1a/T55Z7mLhrgKLQMqyTbG6utvsOESkysEc/wipl2cSOktXpUo5zw0BMr09qvL\nAVbCISLISwKBgFav+eZdYtBNtOO9VwXHqvXg3NSZj18DtG3KvA3SoY5MFPEWx0Jg\nGaPDVvS/V6EMI1YYoK2kheQ/BKl7UYGmgXzJoo6d840PZti0BY+yiLtMOnE6J18u\nTKQ6pdP5suY8EexuX5mYVb8jcGkVls7QjDTV1CcL84FZNshqztHabFYxAoGAddA8\nBDmnSKwzbBFnzdheTb6/xokkHiqw7cLCMMuUm43mNBb1qWv4Kd6TkS/xXVCgnNqY\nT5s5BMRQ3XZc/X9xrCzGg5F+7vRaBX87xZoFlCUkO76tM5+q1lK+F2pbWkupDlcP\nyzIEaW+XhauesvhcYXbJT2uoPQJ8WrP5gzgA0QECgYAvvWF0yphzHAxe8nPIsqu0\nkjFHjxW3AgVmG8Qr4iVSkbcbMew55c0QNU0qtIkByxyUgsX5re/pk+iKwN3oVESq\nIP5KsV0V1CRoKtgHsAb/Q/jDz+QPKfwgQmLReVHMUzDZsQHiMEzApGdwSdfKM/uL\nBsyY5/SjtJV4s4KFrFSFKw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-aeiyt@science-bowl-bot-d2e48.iam.gserviceaccount.com",
+  "client_id": "113581190116071329731",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-aeiyt%40science-bowl-bot-d2e48.iam.gserviceaccount.com"
+}

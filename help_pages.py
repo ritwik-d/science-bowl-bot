@@ -1,0 +1,8 @@
+help_pages = {
+  'q': '**Command**: `.q`\n**Usage**: get asked a channel-specific Science Bowl question\n**Format**: `.q <subject>`\n**Example**: `.q bio`\n**Notes**:\n\t- Omitting the subject will result in a random subject being chosen',
+  'a': '**Command**: `.a`\n**Usage**: answer a channel-specific Science Bowl question, after someone has used `.q`\n**Format**: `.a <answer>`\n**Example**: `.a skeletal muscles`',
+  'amc10': '**Command**: `.amc10`\n**Usage**: get asked a chanel-specific AMC 10 question\n**Format**: `.amc10 <year> <problem>`\n**Example**: `.amc10 2019B 17`\n**Notes**:\n\t- Omitting the year will result in a random exam being chosen\n\t- Omitting the problem will result in a random problem being chosen\n\t- Omitting both the problem and the year will result in a random question\n\t- If you put in a valid year, but omit A or B, a random test will be chosen\n\t- If you wish to get a given problem from a random test, use `.amc10 x <year>`',
+  'aamc10': '**Command**: `.aamc10`\n**Usage**: answer a channel-specific AMC 10 question\n**Format**: `.aamc10 <answer>`\n**Example**: `.aamc10 E`\n**Notes**:\n\t- Stick to using the letters of the answer (A through E) instead of the answer itself (uppercase or lowercase do not matter)',
+  'lb': "**Command**: `.lb`\n**Usage**: view your server's point leaderboard\n**Format**: `.lb`\n**Notes**:\n\t- ``.leaderboard`` also works",
+  'points': "**Command**: `.points`\n**Usage**: view your points, or those of another user\n**Format**: `.points <@user>`\n**Notes**:\n\t- if the mention is omitted, your points will be displayed"
+}
