@@ -12,5 +12,6 @@ We then developed this platform, which has now amassed 50+ users across the glob
 
 Our goal is to continue to allow Sci Bowl Bot to revolutionize Science Bowl online.
 
+
 Thanks,
 The Sci Bowl Bot Team
