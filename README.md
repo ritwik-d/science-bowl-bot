@@ -6,7 +6,7 @@ Sci Bowl Bot is a Discord bot designed to grow the Science Bowl community with a
 
 [National Science Bowl homepage](https://science.osti.gov/wdts/nsb/About)
 
-I made this with the help of my friend, Anand Srinivasan, when we noticed fallacies in other softwares that tried to optimize Science Bowl for online circumstances
+I made this with the help of my friends, Anand Srinivasan, and Gatik Goyal, when we noticed fallacies in other softwares that tried to optimize Science Bowl for online circumstances
 
 We then developed this platform, which has now amassed 50+ users across the globe, and has asked over 25,000 questions.
 
